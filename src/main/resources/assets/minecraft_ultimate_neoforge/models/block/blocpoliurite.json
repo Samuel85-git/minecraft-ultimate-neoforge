@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft_ultimate_neoforge:block/texture_bloc_poliurite",
+    "up": "minecraft_ultimate_neoforge:block/texture_bloc_poliurite",
+    "north": "minecraft_ultimate_neoforge:block/texture_bloc_poliurite",
+    "east": "minecraft_ultimate_neoforge:block/texture_bloc_poliurite",
+    "south": "minecraft_ultimate_neoforge:block/texture_bloc_poliurite",
+    "west": "minecraft_ultimate_neoforge:block/texture_bloc_poliurite",
+    "particle": "minecraft_ultimate_neoforge:block/texture_bloc_poliurite"
+  },
+  "render_type": "solid"
+}

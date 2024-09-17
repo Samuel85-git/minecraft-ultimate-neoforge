@@ -1,0 +1,56 @@
+{
+  "mod_elements": [
+    {
+      "name": "Blocpoliurite",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocpoliurite",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecraft_ultimate_neoforge/models/item/blocpoliurite.json",
+          "src/main/resources/assets/minecraft_ultimate_neoforge/models/block/blocpoliurite.json",
+          "src/main/resources/assets/minecraft_ultimate_neoforge/blockstates/blocpoliurite.json",
+          "src/main/resources/data/minecraft_ultimate_neoforge/loot_tables/blocks/blocpoliurite.json",
+          "src/main/java/net/mcreator/minecraftultimate/block/BlocpoliuriteBlock.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:Blocpoliurite"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.minecraft_ultimate_forge.blocpoliurite": "poliurite",
+      "block.minecraft_ultimate_neoforge.blocpoliurite": "poliurite"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "minecraft_ultimate_neoforge",
+    "modName": "Minecraft Ultimate",
+    "version": "0.1.0",
+    "description": "build 01",
+    "author": "samuel vrignaud",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.20.6",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.minecraftultimate"
+  },
+  "mcreatorVersion": 202400232117
+}
